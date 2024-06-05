@@ -10,7 +10,9 @@ This weather forecasting site dynamically changes the background video based on 
 # Features
 
 Dynamic Background Images: The site displays relevant background video (e.g., raindrops, sunshine, snowflakes) based on the current weather conditions.
+
 Weather Data Integration: It fetches weather data from an external API to determine the climate.
+
 User-Friendly Interface: Users can search for a city and instantly see the weather-related background change.
 
 
