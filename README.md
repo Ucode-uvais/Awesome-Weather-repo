@@ -1,7 +1,7 @@
 #  A Visually alluring and responsive-Weather-site
  
 
-[WATCH THE PREVIEW VIDEO HERE] => https://github.com/Ucode-uvais/Awesome-Weather-repo/assets/156394395/cd9afadb-6f8b-4ea1-846d-fc438a5d4663
+[WATCH THE PREVIEW VIDEO HERE] => https://github.com/Ucode-uvais/Awesome-Weather-repo/assets/156394395/5067325f-fa59-477d-92c0-e4c45c5baacc
 
 # Overview
 
