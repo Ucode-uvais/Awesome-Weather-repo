@@ -1,3 +1,5 @@
+require('dotenv').config();
+const apiKey=process.env.API_KEY;
 const app = document.querySelector('.weather-app');
 const video = document.querySelector('.background-video source');
 const videoElement = document.querySelector('.background-video');
@@ -64,7 +66,7 @@ function dayOfTheWeek(day,month,year) {
 };
 function fetchWeatherData() {
     return new Promise((resolve, reject) => {
-        fetch(`https://api.weatherapi.com/v1/current.json?key={apiKey}&q=${cityInput}&aqi=yes`)
+        fetch(`https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${cityInput}&aqi=yes`)
         .then(response => response.json())
         .then(data => {
         console.log(data);
