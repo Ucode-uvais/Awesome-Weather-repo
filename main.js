@@ -1,5 +1,4 @@
-require('dotenv').config();
-const apiKey=process.env.API_KEY;
+const apiKey = CONFIG.API_KEY;
 const app = document.querySelector('.weather-app');
 const video = document.querySelector('.background-video source');
 const videoElement = document.querySelector('.background-video');
